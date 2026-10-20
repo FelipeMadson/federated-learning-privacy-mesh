@@ -1,0 +1,13 @@
+[project]
+name = "federated-learning-privacy-mesh"
+version = "1.0.0"
+description = "High-Performance Federated Learning Orchestrator with Rényi Differential Privacy and Byzantine-Robust Multi-Krum Secure Aggregation."
+authors = [{ name = "Felipe Madison", email = "felipemadson@users.noreply.github.com" }]
+license = { text = "MIT" }
+readme = "README.md"
+requires-python = ">=3.12"
+dependencies = []
+
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
